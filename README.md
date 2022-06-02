@@ -20,3 +20,10 @@ E2E Não é aconselhavél ter mocks ou dados fakes
 
 
 Gateway = Conta teste (API de teste)
+
+// Pesquisas
+
+Pesquisar sobre Command/ Query Segregation
+Escrita update e delete sem retorno querys
+
+in memory database martin fowler
